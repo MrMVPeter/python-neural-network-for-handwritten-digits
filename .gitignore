@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+
+# Compiled Python Files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code Settings
+.vscode/
+
+# Logs and Databases
+logs/
+*.log
